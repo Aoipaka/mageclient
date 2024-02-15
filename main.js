@@ -16,7 +16,7 @@ $$('ul#winPlayerMenu')[0].innerHTML+=`<li id=ssbtn><button type="button" title="
 
 
 credits=(()=>{document.querySelector('form#winPopup').style.display='grid';document.querySelector('form#winPopup').innerHTML=`<div><h3 id="txtPopupTitle">Mage client v0.1</h3></div>
-<div><div id="txtPopupPrompt"><p>Programmed by BlueHoodie</p></div></div>
+<div><div id="txtPopupPrompt"><p>Programmed by BlueHoodie<br /><br />Mage Client is not in any way affiliated with Retrelon Games, LLC or the game "Mirage Online"</p></div></div>
 <div><input name="txtPopup" size="20" style="display: none;"></div>
 <div></div><div><ul><li><button onclick="document.querySelector('form#winPopup').style.display='none'" type="button">Back</button></li></ul></div>`});
 if (!(document.getElementById('cbtn'))){
