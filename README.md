@@ -4,7 +4,7 @@ A client for the game Mirage Online.
 To run the client,
 Run this in inspect element console:
 * Currently does not work, client source code must be manually pasted,
-* working to fix
+(working to fix)
 ```js
 import('https://aoipaka.github.io/mageclient/main.js')
 ```
