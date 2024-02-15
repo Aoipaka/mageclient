@@ -4,7 +4,7 @@ A client for the game Mirage Online.
 Don't think its safe? The source code is right in main.js.
 
 To run the client,
-Run this in inspect element console:
+Run the code below in inspect element console:
 <br>
 \* The injection code below currently does not work, and the client source code must be manually pasted
 <br>
