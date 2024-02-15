@@ -1,4 +1,3 @@
-// (warning: this is a game modification, use at your own risk)
 /*****************************************
           |\/| |\  /‾‾  |̲̅ ̲̅
           |  |「‾\ \_‾/  \_
@@ -7,6 +6,8 @@ __________________________________________
 *****************************************/
 // /!\  DISCLAIMER  /!\
 // This client has no affiliation with the game "Mirage Online"
+
+// ( Warning: This modifies the game, use at your own risk! )
 
 
 // Add screenshot button
