@@ -1,5 +1,6 @@
 # Mage Client
 A client for the game Mirage Online.
+<br>
 Don't think its safe? The source code is right in main.js
 
 To run the client,
