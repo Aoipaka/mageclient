@@ -5,6 +5,8 @@
            C L I E N T
 __________________________________________
 *****************************************/
+// /!\  DISCLAIMER  /!\
+// This client has no affiliation with the game "Mirage Online"
 
 ss=(()=>{fetch(document.querySelector('canvas#cvsGame').toDataURL()).then(r=>r.blob()).then(b=>open(URL.createObjectURL(b)))});
 if (!(document.getElementById('ssbtn'))){
