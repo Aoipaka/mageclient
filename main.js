@@ -6,7 +6,7 @@ __________________________________________
 *****************************************/
 
 //             /!\  DISCLAIMER  /!\
-// This client has no affiliation with the game "Mirage Online"
+// This client has no affiliation with the game Mirage Online
 
 // ( Warning: This modifies the game which is against the rules,
 // use at your own risk, but you may get banned! )
@@ -31,7 +31,7 @@ if (!(document.getElementById('ssbtn'))){
 /*========================= Credits Button =========================*/
 function tmpcrpopup() {
           document.querySelector('form#winPopup').style.display='grid';document.querySelector('form#winPopup').innerHTML=`<div><h3 id="txtPopupTitle">Mage client v0.1</h3></div>
-<div><div id="txtPopupPrompt"><p>Programmed by BlueHoodie<br /><br />Mage Client is not in any way affiliated<br />with Retrelon Games LLC or the game "Mirage Online"</p></div></div>
+<div><div id="txtPopupPrompt"><p>Programmed by BlueHoodie<br /><br />Mage Client is not in any way affiliated<br />with the game Mirage Online</p></div></div>
 <div><input name="txtPopup" size="20" style="display: none;"></div>
 <div></div><div><ul><li><button onclick="document.querySelector('form#winPopup').style.display='none'" type="button">Back</button></li></ul></div>`
 }
