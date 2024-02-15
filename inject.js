@@ -1,1 +1,1 @@
-fetch('https://raw.githubusercontent.com/Aoipaka/mageclient/main/main.js',{'mode':'no-cors'}).then(r=>r.text()).then(t=>eval(t));
+fetch('https://aoipaka.github.io/mageclient/main.js',{'mode':'no-cors'}).then(r=>r.text()).then(t=>eval(t));
