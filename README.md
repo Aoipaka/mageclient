@@ -1,6 +1,5 @@
 # Mage Client
 A client for the game Mirage Online.
-(MAGE CLIENT IS NOT AFFILIATED WITH MIRAGE ONLINE OR ITS CREATORS IN ANY WAY)
 
 To run the client,
 Run this in inspect element console:
