@@ -30,10 +30,16 @@ if (!(document.getElementById('ssbtn'))){
 
 /*========================= Credits Button =========================*/
 function tmpcrpopup() {
-          document.querySelector('form#winPopup').style.display='grid';document.querySelector('form#winPopup').innerHTML=`<div><h3 id="txtPopupTitle">Mage client v0.1</h3></div>
-<div><div id="txtPopupPrompt"><p>Programmed by BlueHoodie<br /><br />Mage Client is not in any way affiliated<br />with the game Mirage Online</p></div></div>
-<div><input name="txtPopup" size="20" style="display: none;"></div>
-<div></div><div><ul><li><button onclick="document.querySelector('form#winPopup').style.display='none'" type="button">Back</button></li></ul></div>`
+          KNVJW(
+                    "Mage client v0.1",
+                    "Programmed by BlueHoodie\nMage Client is not affiliated with Mirage Online Classic",
+                    "none",
+                    "none",
+                    ["OK"],
+                    function(v,B) {
+                              "OK" === B && console.log(1)
+                    }
+          );
 }
 window.cr = tmpcrpopup;
 if (!(document.getElementById('cbtn'))){
