@@ -5,15 +5,11 @@
 __________________________________________
 *****************************************/
 
-//             /!\  DISCLAIMER  /!\
-// This client has no affiliation with the game Mirage Online
+//                /!\  DISCLAIMER  /!\
+// Mage client has no affiliation with the game Mirage Online Classic
 
 // ( Warning: This client will modify the game, which is against the
-//            Mirage Terms of Service )
-
-//   This client does not offer any advantages or intentionally
-//            alter gameplay in any way
-
+//           Mirage Online Classic Terms of Service )
 
 
 
