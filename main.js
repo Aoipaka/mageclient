@@ -23,10 +23,10 @@ __________________________________________
    Display start message
 ____________________________
 ***************************/
-KNVJ8(4, " \n \n \n ", "", 1, 1)
-KNVJ8(4, "|\\/|  |\\    /‾‾   |̲̅  ̲̅ ", "#ED40AF", 1, 1)
-KNVJ8(4, "|   |「‾\\  \\_‾/  \\_\nC L I E N T", "#ED40AF", 1, 1)
-KNVJ8(4, "Programmed by BlueHoodie", "#FFFFFF", 1, 1)
+KNVJ8(4, " \n \n \n ", "", 1, 0)
+KNVJ8(4, "|\\/|  |\\    /‾‾   |̲̅  ̲̅ ", "#ED40AF", 1, 0)
+KNVJ8(4, "|   |「‾\\  \\_‾/  \\_\nC L I E N T", "#ED40AF", 1, 0)
+KNVJ8(4, "Programmed by BlueHoodie", "#FFFFFF", 1, 0)
 
 
 
