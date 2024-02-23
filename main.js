@@ -8,8 +8,8 @@ __________________________________________
 //             /!\  DISCLAIMER  /!\
 // This client has no affiliation with the game Mirage Online
 
-// ( Warning: This client will modify the game, which is against the rules.
-//   Use at your own risk, but you may get banned! )
+// ( Warning: This client will modify the game, which is against the
+//            Mirage Terms of Service )
 
 
 
