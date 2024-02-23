@@ -33,9 +33,7 @@ function tmpcrpopup() {
           KNVJW(
                     "Mage client v0.1",
                     "Programmed by BlueHoodie\nMage Client is not affiliated with Mirage Online Classic",
-                    "none",
-                    "none",
-                    ["OK"],
+                    "none","none",["OK"],
                     function(v,B) {
                               "OK" === B && console.log(1)
                     }
