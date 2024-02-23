@@ -16,16 +16,20 @@ __________________________________________
 
 
 
-function mageclient() {
+
+
+
 /***************************
    Display start message
 ____________________________
 ***************************/
-op=[1,1]
 KNVJ8(4, " \n \n \n ", "", op[0], op[1])
-KNVJ8(4, "|\\/|  |\\    /‾‾   |̲̅  ̲̅ ", "#ED40AF", op[0], op[1])
-KNVJ8(4, "|   |「‾\\  \\_‾/  \\_\nC L I E N T", "#ED40AF", op[0], op[1])
-KNVJ8(4, "Programmed by BlueHoodie", "#FFFFFF", op[0], op[1])
+KNVJ8(4, "|\\/|  |\\    /‾‾   |̲̅  ̲̅ ", "#ED40AF", 1, 1)
+KNVJ8(4, "|   |「‾\\  \\_‾/  \\_\nC L I E N T", "#ED40AF", 1, 1)
+KNVJ8(4, "Programmed by BlueHoodie", "#FFFFFF", 1, 1)
+
+
+
 
 
 
@@ -111,15 +115,3 @@ if (!(document.getElementById('cbtn'))){
 }
 /*____________________________________________________________________
 =====================================================================*/
-}
-
-
-
-
-// Wait for game to be loaded
-i = setInterval(() => {
-          if (KNVJ8) {
-                    mageclient();
-                    clearInterval(i);
-          }
-});
